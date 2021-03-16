@@ -22,7 +22,7 @@ class TestesJunit {
 	static RegistroActions actReg;
 	static ProcurarVooActions actProcVoo;
 	
-
+// alt
 	@BeforeAll
 	static void abrirBrowser() {
 		
